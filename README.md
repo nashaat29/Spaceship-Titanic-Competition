@@ -72,4 +72,4 @@ The table below summarizes the performance of each algorithm, showcasing the hig
 ## Kaggle Notebook
 
 You can explore the full implementation of this project on Kaggle:  
-[Spaceship Titanic Survival Prediction Notebook]([https://www.kaggle.com/code/your-username/spaceship-titanic-survival-prediction](https://www.kaggle.com/code/mohammednashat/building-a-model-for-spaceship-titanic-survival))
+Kaggle Notebook: https://www.kaggle.com/code/mohammednashat/building-a-model-for-spaceship-titanic-survival
